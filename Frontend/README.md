@@ -1,4 +1,4 @@
-# SiteCraft4u (Frontend + Backend Split)
+# SiteCraft4u (Frontend + Backend Split).
 
 This repo is now structured so frontend and backend can be deployed separately.
 
